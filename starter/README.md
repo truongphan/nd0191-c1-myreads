@@ -15,9 +15,9 @@ This app is the first of three projects required for [Udacity's React Nanodegree
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 bash
- $ git clone https://github.com/truongphan/truongpv3-myreads.git
- $ cd starter
- $ npm install
+- `$ git clone https://github.com/truongphan/truongpv3-myreads.git`
+- `$ cd starter`
+- `$ npm install`
 
 # Running the tests
 The project can be run with
